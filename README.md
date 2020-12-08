@@ -1,8 +1,8 @@
-#Rick and Morty
+# Rick and Morty
 
 Proyecto en el cual se muestra la información de los personajes de la serie **Rick and Morty**.
 
-##Tecnologías
+## Tecnologías
 
 * HTML
 * CSS
